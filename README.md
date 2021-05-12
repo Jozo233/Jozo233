@@ -16,7 +16,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/Jozo233">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jozo233&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
-<a href="https://github.com/ThePlay3r">
+<a href="https://github.com/Jozo233">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jozo233&layout=compact&theme=radical" />
 </a>
 
