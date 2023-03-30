@@ -27,3 +27,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </p>
 
 ---
+
+<div>
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ </div>
