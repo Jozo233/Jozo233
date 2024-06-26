@@ -11,3 +11,7 @@
  
  
 </div>
+
+###
+![Spotify widget](https://spotify-recently-played-readme.vercel.app/api?user=lrthua4yog0vm5o7n59tgaadz)
+###
